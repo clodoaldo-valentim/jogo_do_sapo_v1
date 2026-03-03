@@ -45,9 +45,9 @@ ControlesTeclaAçãoSetas DirecionaisMovimentam o sapo pela telaEspaçoRealiza o
 ## Estrutura de Arquivos Sugerida
 Para que o código funcione corretamente, organize seus arquivos da seguinte forma:
 .
-├── jogo.py          # Seu código principal
-├── sons/            # Música de fundo, coleta, vitória, derrota
-├── sprites/         # Imagens do sapo, mosquito e maçã
-└── fundos/          # Imagens de fundo, tela de vitória e derrota
+### ├── jogo.py          # Seu código principal
+### ├── sons/            # Música de fundo, coleta, vitória, derrota
+### ├── sprites/         # Imagens do sapo, mosquito e maçã
+### └── fundos/          # Imagens de fundo, tela de vitória e derrota
 ## Licença
 Este projeto é para fins educacionais. Sinta-se à vontade para clonar, modificar e melhorar!
