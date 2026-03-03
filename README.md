@@ -32,10 +32,9 @@ Este projeto demonstra a implementação de:
 * Python 3.x instalado.
 * Biblioteca Pygame instalada.
 
-```bash
 pip install pygame
 ## Instalação
-###Clone este repositório:
+### Clone este repositório:
 git clone [https://github.com/clodoaldo-valentim/jogo_do_sapo_v1.git](https://github.com/clodoaldo-valentim/jogo_do_sapo_v1.git)
 
 Certifique-se de que as pastas de assets (sons/, sprites/, fundos/) estão no mesmo diretório que o arquivo .py.
